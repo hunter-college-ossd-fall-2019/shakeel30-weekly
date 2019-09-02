@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This repository belongs to Shakeel Iddrisu
+Student in CSci 395.86 in Hunter College, Fall 2019
 
 ### More Information
 
