@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+This repository belongs to Shakeel Iddrisu
 
 ### More Information
 
