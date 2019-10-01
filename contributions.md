@@ -20,5 +20,5 @@ Replace the first row below with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
-|     |     |     |      |
+|  7   |  https://www.openstreetmap.org/changeset/75127404   | OpenStreet Map Edit    | I included some features and modified some buildings in my neighbourhood.     |
 |     |     |     |      |
