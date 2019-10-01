@@ -20,6 +20,6 @@ Replace the first row below with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
-|  6   |   https://github.com/hunter-college-ossd-fall-2019/Aleks118-weekly/pull/1  | Blog Edit    | I corrected some grammar      |
+|  6   |   [https://github.com/hunter-college-ossd-fall-2019/Aleks118-weekly/pull/1]  | Blog Edit    | I corrected some grammar      |
 |  7   |  https://www.openstreetmap.org/changeset/75127404  https://www.openstreetmap.org/changeset/75125577  https://www.openstreetmap.org/changeset/74555921  https://www.openstreetmap.org/changeset/74555677| OpenStreet Map Edit    | I included some features and modified some buildings in my neighbourhood.     |
 |     |     |     |      |
