@@ -24,5 +24,5 @@ Replace the first row below with your contribution.
 |  4   |   [OpenStreet Map Link](https://www.openstreetmap.org/changeset/74555677)   |  OpenStreet Map Edits     | Modified some buildings in my neighbourhood on OpenStreet Map        |
 |  6   |    [OpenStreet Map Link](https://www.openstreetmap.org/changeset/75127404)  |  OpenStreet Map Edit   |  Added state and city names    |
 |   6  |    [OpenStreet Map Link](https://www.openstreetmap.org/changeset/75125577) |  OpenStreet Map Edit   |  Added stop signs and also modified supermarket    |
-|     |     |     |      |
+|   8  |  [OpenStreet Map Link](https://www.openstreetmap.org/changeset/75968517)   |  OpenStreet Map Edit   |  Zip codes, Speed camera, points for mall and store    |
 |     |     |     |      |
