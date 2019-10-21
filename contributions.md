@@ -19,7 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-
 |  4   | [OpenStreet Map Link](https://www.openstreetmap.org/changeset/74555921)    | OpenStreet Map Edits      | I included some features  |
 |  4   |   [OpenStreet Map Link](https://www.openstreetmap.org/changeset/74555677)   |  OpenStreet Map Edits     | Modified some buildings in my neighbourhood on OpenStreet Map        |
 |  5   |   [Blog Edit Link](https://github.com/hunter-college-ossd-fall-2019/Aleks118-weekly/pull/1)   | Blog Edit  | I corrected some grammar in a Blog      |
