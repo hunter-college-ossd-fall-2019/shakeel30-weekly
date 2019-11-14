@@ -25,4 +25,6 @@ Replace the first row below with your contribution.
 |  6   |    [OpenStreet Map Link](https://www.openstreetmap.org/changeset/75127404)  |  OpenStreet Map Edit   |  Added state and city names    |
 |   6  |    [OpenStreet Map Link](https://www.openstreetmap.org/changeset/75125577) |  OpenStreet Map Edit   |  Added stop signs and also modified supermarket    |
 |   8  |  [OpenStreet Map Link](https://www.openstreetmap.org/changeset/75968517)   |  OpenStreet Map Edit   |  Zip codes, Speed camera, points for mall and store    |
+|  11  |  [Microsoft Temrminal](https://github.com/microsoft/terminal/pull/3514)   |   Documentation  |   The community profile for this repository indicates there is no contributing.md file even though it exits in the docs folder. As a fix I plan to make a copy of the file and place it in the root folder where it would be picked up by the community profile.   |
+|     |     |     |      |
 |     |     |     |      |
