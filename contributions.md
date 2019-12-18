@@ -29,4 +29,5 @@ Replace the first row below with your contribution.
 |  11  |  [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Shakeel03)   |  Documentation   |   Added more information about the staple food of the city of Wa in the Upper West region of Ghana  |
 |   13   |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Wa,_Ghana&diff=prev&oldid=931039501)   |  Documentation   |    Elaborated more on the kinds of foods and cuisine know to the Waala people as well as the derivation of the names of the foods.  |
 |   14  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Wa,_Ghana&diff=prev&oldid=931047113)   |  Documentation   |   Made a number of grammatical changes and punctuation corrections. Also linked some items to thier dedicated wikipedia pages  |
+|   14  |  [Wikipedia](https://en.wikipedia.org/wiki/Wa,_Ghana#Food_and_cuisine)   |   Image  |   Added an image of the food   |
 |     |     |     |      |
