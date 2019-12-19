@@ -30,4 +30,6 @@ Replace the first row below with your contribution.
 |   13   |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Wa,_Ghana&diff=prev&oldid=931039501)   |  Documentation   |    Elaborated more on the kinds of foods and cuisine know to the Waala people as well as the derivation of the names of the foods.  |
 |   14  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Wa,_Ghana&diff=prev&oldid=931047113)   |  Documentation   |   Made a number of grammatical changes and punctuation corrections. Also linked some items to thier dedicated wikipedia pages  |
 |   14  |  [Wikipedia](https://en.wikipedia.org/wiki/Wa,_Ghana#Food_and_cuisine)   |   Image  |   Added an image of a dish   |
+|  14   |  [OpenStreet Map](https://www.openstreetmap.org/changeset/78657025#map=15/40.8861/-73.8683)   |  OpenStreetMap edit   |    Added points and areas for a cemetery, hospital, fast food joint, Gas station and mosque. As well as information on the state, city and postal code for each one of them.  |
+|     |  [OpenStreet Map](https://www.openstreetmap.org/changeset/78657199)   |   OpenStreetMap edit  |   Added information about the bank's drive through   |
 |     |     |     |      |
